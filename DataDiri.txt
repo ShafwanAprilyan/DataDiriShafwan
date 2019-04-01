@@ -2,3 +2,6 @@ Nama : Shafwan Aprilyan
 NIM : 1829140011
 Kelas : TEKOM B
 Kota Asal : Barru
+
+Jenis Kelamin : Laki-laki
+Agama : Islam
